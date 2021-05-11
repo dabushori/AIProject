@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
 
-    <h1> Welcome to our chat bot web application!</h1>
-    <h3> Log in or Sign up to start your experince. </h3>
+    <h1><b>Welcome to my chat bot web application!</b></h1>
+    <h3> Log in or sign up to start your experince. </h3>
 
 </asp:Content>
